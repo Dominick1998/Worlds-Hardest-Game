@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D7B6EBA5-13B6-88BF-B513-AD07E25EE092}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="23" Column="19" />
+      <File FileName="Assets/Scripts/EnemyScript.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="38" Column="56" />
+      <File FileName="../Shoota/Assets/Collision.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="World's Hardest Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EnemyScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fc320457-78b9-463c-ac74-5390554407a1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

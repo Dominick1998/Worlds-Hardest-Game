@@ -12,6 +12,12 @@ This is an impossible game remake made with Unity 2019. The objective is to navi
 ## Description
 This project is a Unity-based game where the player must move through levels filled with obstacles. It is a remake of the classic "World's Hardest Game".
 
+## Screenshots
+Here are some screenshots of the project:
+
+<img src="Screenshots/img1.png" width="300"> <br>
+<img src="Screenshots/img2.png" width="300">
+
 ## Installation
 1. **Clone the repository**:
    ```sh

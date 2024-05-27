@@ -1,46 +1,46 @@
 {
   "dependencies": {
-    "com.unity.2d.sprite": "1.0.0",
-    "com.unity.2d.tilemap": "1.0.0",
-    "com.unity.collab-proxy": "1.2.16",
-    "com.unity.ext.nunit": "1.0.0",
-    "com.unity.ide.rider": "1.1.0",
-    "com.unity.ide.vscode": "1.1.0",
-    "com.unity.package-manager-ui": "2.2.0",
-    "com.unity.test-framework": "1.0.13",
-    "com.unity.textmeshpro": "2.0.1",
-    "com.unity.timeline": "1.1.0",
-    "com.unity.ugui": "1.0.0",
-    "com.unity.modules.ai": "1.0.0",
-    "com.unity.modules.androidjni": "1.0.0",
-    "com.unity.modules.animation": "1.0.0",
-    "com.unity.modules.assetbundle": "1.0.0",
-    "com.unity.modules.audio": "1.0.0",
-    "com.unity.modules.cloth": "1.0.0",
-    "com.unity.modules.director": "1.0.0",
-    "com.unity.modules.imageconversion": "1.0.0",
-    "com.unity.modules.imgui": "1.0.0",
-    "com.unity.modules.jsonserialize": "1.0.0",
-    "com.unity.modules.particlesystem": "1.0.0",
-    "com.unity.modules.physics": "1.0.0",
-    "com.unity.modules.physics2d": "1.0.0",
-    "com.unity.modules.screencapture": "1.0.0",
-    "com.unity.modules.terrain": "1.0.0",
-    "com.unity.modules.terrainphysics": "1.0.0",
-    "com.unity.modules.tilemap": "1.0.0",
-    "com.unity.modules.ui": "1.0.0",
-    "com.unity.modules.uielements": "1.0.0",
-    "com.unity.modules.umbra": "1.0.0",
-    "com.unity.modules.unityanalytics": "1.0.0",
-    "com.unity.modules.unitywebrequest": "1.0.0",
-    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
-    "com.unity.modules.unitywebrequestaudio": "1.0.0",
-    "com.unity.modules.unitywebrequesttexture": "1.0.0",
-    "com.unity.modules.unitywebrequestwww": "1.0.0",
-    "com.unity.modules.vehicles": "1.0.0",
-    "com.unity.modules.video": "1.0.0",
-    "com.unity.modules.vr": "1.0.0",
-    "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.2d.sprite": "1.0.0",                // Package for 2D sprite functionality
+    "com.unity.2d.tilemap": "1.0.0",               // Package for creating and managing 2D tilemaps
+    "com.unity.collab-proxy": "1.2.16",            // Package for Unity Collaborate, a team collaboration tool
+    "com.unity.ext.nunit": "1.0.0",                // Package for integrating NUnit testing framework
+    "com.unity.ide.rider": "1.1.0",                // Integration with JetBrains Rider IDE
+    "com.unity.ide.vscode": "1.1.0",               // Integration with Visual Studio Code IDE
+    "com.unity.package-manager-ui": "2.2.0",       // User interface for Unity's Package Manager
+    "com.unity.test-framework": "1.0.13",          // Unity Test Framework for running tests in the editor
+    "com.unity.textmeshpro": "2.0.1",              // Advanced text rendering with TextMesh Pro
+    "com.unity.timeline": "1.1.0",                 // Timeline tool for cinematic content and gameplay sequencing
+    "com.unity.ugui": "1.0.0",                     // Unity's UI system (uGUI)
+    "com.unity.modules.ai": "1.0.0",               // AI (Artificial Intelligence) module
+    "com.unity.modules.androidjni": "1.0.0",       // JNI (Java Native Interface) module for Android
+    "com.unity.modules.animation": "1.0.0",        // Animation module for animating objects
+    "com.unity.modules.assetbundle": "1.0.0",      // AssetBundle module for asset management
+    "com.unity.modules.audio": "1.0.0",            // Audio module for sound management
+    "com.unity.modules.cloth": "1.0.0",            // Cloth simulation module
+    "com.unity.modules.director": "1.0.0",         // Director module for timeline and sequencing
+    "com.unity.modules.imageconversion": "1.0.0",  // Image conversion utilities
+    "com.unity.modules.imgui": "1.0.0",            // IMGUI module for immediate mode GUI
+    "com.unity.modules.jsonserialize": "1.0.0",    // JSON serialization module
+    "com.unity.modules.particlesystem": "1.0.0",   // Particle system module
+    "com.unity.modules.physics": "1.0.0",          // 3D physics module
+    "com.unity.modules.physics2d": "1.0.0",        // 2D physics module
+    "com.unity.modules.screencapture": "1.0.0",    // Screen capture utilities
+    "com.unity.modules.terrain": "1.0.0",          // Terrain generation and manipulation
+    "com.unity.modules.terrainphysics": "1.0.0",   // Physics for terrain
+    "com.unity.modules.tilemap": "1.0.0",          // Tilemap module for 2D games
+    "com.unity.modules.ui": "1.0.0",               // UI module for user interface elements
+    "com.unity.modules.uielements": "1.0.0",       // UIElements module for modern UI creation
+    "com.unity.modules.umbra": "1.0.0",            // Umbra module for occlusion culling
+    "com.unity.modules.unityanalytics": "1.0.0",   // Unity Analytics module
+    "com.unity.modules.unitywebrequest": "1.0.0",  // Web request module for network communications
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",  // Web request module for AssetBundles
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",        // Web request module for audio
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",      // Web request module for textures
+    "com.unity.modules.unitywebrequestwww": "1.0.0",          // Legacy web request module (WWW)
+    "com.unity.modules.vehicles": "1.0.0",                    // Vehicle physics module
+    "com.unity.modules.video": "1.0.0",                       // Video playback module
+    "com.unity.modules.vr": "1.0.0",                          // Virtual Reality (VR) module
+    "com.unity.modules.wind": "1.0.0",                        // Wind simulation module
+    "com.unity.modules.xr": "1.0.0"                           // Extended Reality (XR) module for AR/VR
   }
 }

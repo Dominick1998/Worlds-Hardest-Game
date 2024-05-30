@@ -1,6 +1,8 @@
-﻿<Properties StartupConfiguration="{D7B6EBA5-13B6-88BF-B513-AD07E25EE092}|">
+<Properties StartupConfiguration="{D7B6EBA5-13B6-88BF-B513-AD07E25EE092}|">
+  <!-- MonoDevelop IDE configuration for the active document and opened files -->
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyScript.cs">
     <Files>
+      <!-- File settings including the file name, line, and column where the cursor was last located -->
       <File FileName="Assets/Scripts/PlayerScript.cs" Line="23" Column="19" />
       <File FileName="Assets/Scripts/EnemyScript.cs" Line="36" Column="1" />
       <File FileName="Assets/Scripts/GameManager.cs" Line="38" Column="56" />
@@ -8,6 +10,7 @@
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
+        <!-- State of the project pad, including expanded and selected nodes -->
         <State name="__root__">
           <Node name="World's Hardest Game" expanded="True">
             <Node name="Assets" expanded="True">
@@ -20,11 +23,21 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+
+  <!-- Configuration for pinned watches in the MonoDevelop IDE -->
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+
+  <!-- Active workspace configuration (e.g., Debug, Release) -->
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+
+  <!-- Preferred execution target for the assembly -->
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fc320457-78b9-463c-ac74-5390554407a1" />
+
+  <!-- Configuration for breakpoints in the MonoDevelop IDE -->
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+
+  <!-- Configuration for multiple item startup configurations -->
   <MultiItemStartupConfigurations />
 </Properties>
